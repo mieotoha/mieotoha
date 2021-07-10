@@ -12,4 +12,5 @@
 
 - Java
 - Julia
+- Flutter
 - Cpp
