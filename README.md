@@ -1,6 +1,6 @@
 # 洛诗旅(hattori emi)
 
-- <img src="https://simpleicons.org/icons/twitter.svg" alt="Twitter" style="width:64px;"/> Twitter: [@hattori_emi61](https://twitter.com/hattori_emi61)
+- Twitter: [@hattori_emi61](https://twitter.com/hattori_emi61)
 
 - YouTube: [服部絵美](https://youtube.com/channel/UC2mICe2PT6zs1pVG0jz-CvQ)
 
