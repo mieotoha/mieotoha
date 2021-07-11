@@ -1,6 +1,6 @@
 # 洛诗旅(hattori emi)
 
-![Metrics](https://metrics.lecoq.io/hattori-emi?template=classic&config.timezone=Asia%
+![Metrics](https://metrics.lecoq.io/hattori-emi?template=classic&config.timezone=Asia%2FShanghai)
 
 ![Hattori emi's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hattori-emi&layout=compact&hide_border=true&langs_count=10)
 
@@ -32,6 +32,8 @@
 - [Skia.jl](https://github.com/hattori-emi/Skia.jl) - A complete 2D graphic library for drawing Text, Geometries, and Images with Julia.
 
 - [MidoiEngine.jl](https://github.com/hattori-emi/MidoiEngine.jl) - A GalGame engine written with Julia.
+
+- [Umbrella](https://github.com/hattori-emi/Umbrella) - Learning IT
 
 - Learning
     - Cpp
