@@ -1,14 +1,14 @@
 # 洛诗旅(hattori emi)
 
-- [Twitter](https://twitter.com/hattori_emi61)
+- ![twitter](https://simpleicons.org/icons/twitter.svg) Twitter: [@hattori_emi61](https://twitter.com/hattori_emi61)
 
-- [YouTube](https://youtube.com/channel/UC2mICe2PT6zs1pVG0jz-CvQ)
+- YouTube: [服部絵美](https://youtube.com/channel/UC2mICe2PT6zs1pVG0jz-CvQ)
 
-- email 1: [a7b8i06c49@outlook.com](a7b8i06c49@outlook.com)
+- email 1: a7b8i06c49@outlook.com
 
-- email 2: [a7b8i06c49@gmail.com](a7b8i06c49@gmail.com)
+- email 2: a7b8i06c49@gmail.com
 
-- [Website](hatto.xyz)
+- Website: [hatto.xyz](hatto.xyz)
 
 ## Stats
 
