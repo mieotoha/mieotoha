@@ -2,7 +2,7 @@
 
 ![Metrics](https://metrics.lecoq.io/hattori-emi?template=classic&config.timezone=Asia%2FShanghai)
 
-![Hattori emi's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hattori-emi&layout=compact&hide_border=true&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hattori-emi&layout=compact)
 
 - Twitter: [@hattori_emi61](https://twitter.com/hattori_emi61)
 
