@@ -1,22 +1,20 @@
-# 服部絵美
+# 未絵音羽/服部絵美
 
-![Metrics](https://metrics.lecoq.io/hattori-emi?template=classic&config.timezone=Asia%2FShanghai)
+![Metrics](https://metrics.lecoq.io/mieotoha?template=classic&config.timezone=Asia%2FShanghai)
 
-![Hattori emi's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hattori-emi&layout=compact&hide_border=true&langs_count=10)
+![mieotoha's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mieotoha&layout=compact&hide_border=true&langs_count=10)
 
-- Twitter: [@hattori_emi61](https://twitter.com/hattori_emi61)
+- Twitter: [@mieotoha](https://twitter.com/mieotoha)
 
-- YouTube: [服部絵美](https://youtube.com/channel/UC2mICe2PT6zs1pVG0jz-CvQ)
+- YouTube: [未絵音羽/服部絵美](https://youtube.com/channel/UC2mICe2PT6zs1pVG0jz-CvQ)
 
-- email 1: a7b8i06c49@outlook.com
-
-- email 2: a7b8i06c49@gmail.com
+- email: a7b8i06c49@gmail.com
 
 - Website: [hatto.xyz](hatto.xyz)
 
 ## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hattori-emi&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mieotoha&show_icons=true&theme=cobalt)
 
 ## Languages
 
