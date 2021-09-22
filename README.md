@@ -32,12 +32,11 @@
 - [MidoiEngine.jl](https://github.com/hattori-emi/MidoiEngine.jl) - A GalGame engine written with Julia.
 
 - Learning
-    - Cpp
-    - Docker
+    - Assembly
+    - Julia
     - Harbor
     - Flutter
     - Firebase
-    - Spring Cloud
-    - Makie.jl
-    - Junars
+    - Spring
+    - Computer Graphics
     - Deeplearning
