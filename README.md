@@ -15,28 +15,3 @@
 ## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mieotoha&show_icons=true&theme=cobalt)
-
-## Languages
-
-- Java
-- Julia
-- Flutter
-- Cpp
-
-## In Progress
-
-- [Project-Urd](https://github.com/mieotoha/Project-Urd) - 夢
-
-- [Skia.jl](https://github.com/hattori-emi/Skia.jl) - A complete 2D graphic library for drawing Text, Geometries, and Images with Julia.
-
-- [MidoiEngine.jl](https://github.com/hattori-emi/MidoiEngine.jl) - A GalGame engine written with Julia.
-
-- Learning
-    - Assembly
-    - Julia
-    - Harbor
-    - Flutter
-    - Firebase
-    - Spring
-    - Computer Graphics
-    - Deeplearning
