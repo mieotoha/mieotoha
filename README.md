@@ -10,8 +10,6 @@
 
 - email: a7b8i06c49@gmail.com
 
-- Website: [hatto.xyz](hatto.xyz)
-
 ## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mieotoha&show_icons=true&theme=cobalt)
