@@ -13,7 +13,9 @@ __主要使用语言/主な使用言語/Mainly used language: 简体中文 > 日
 
 ## 能力
 - 编程语言: Assembly、C++、C#、Flutter、GDScript、Java、Julia
-- 日语: N3
+- 简体中文: HSK 6
+- 日本語: N3
+- English: High school level
 - 绘画: 插画，标准二次元风格
 - 心理学: 抑郁症相关
 - 电子琴: 业余爱好
@@ -56,4 +58,4 @@ __主要使用语言/主な使用言語/Mainly used language: 简体中文 > 日
 
 ![Metrics](https://metrics.lecoq.io/mieotoha?template=classic&config.timezone=Asia%2FShanghai)
 
-![mieotoha's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mieotoha&layout=compact&hide_border=true&langs_count=10)
+![mieotoha's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mieotoha&layout=compact&hide_border=true&langs_count=8)
